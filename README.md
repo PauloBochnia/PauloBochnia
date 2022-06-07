@@ -3,8 +3,8 @@
 
 I'm Paulo Bochnia, and to introduce myself in few words:
  - I'm a very curious and determined person, I'm always looking to do my best and exceed all others expectations.
- - I have Business Administration degree.
- - Statistical degree is in progress.
+ - I completed Business Administration degree.
+ - Statistical degree in progress.
  - I'm learning and improving my programming skills since 2018 (SQL,python,Spark,Docker).
 
 ## About me
